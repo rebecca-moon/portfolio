@@ -108,7 +108,7 @@ ol {
 }
 
 a {
-  color: #778d6f;
+  color: #5f7159;
   text-decoration: none;
 }
 
@@ -306,7 +306,7 @@ header nav ul li {
 }
 
 nav #contact-link {
-  background-color: #778d6f;
+  background-color: #5f7159;
   color: #f7f1e7;
   padding: 10px 10px;
   border-radius: 30px;
@@ -385,7 +385,7 @@ header h2 {
 }
 
 .project-link {
-  background-color: #778d6f;
+  background-color: #5f7159;
   padding: .75rem 3.75rem;
   border-radius: 30px;
   color: #f7f1e7;
@@ -406,8 +406,9 @@ header h2 {
 
 .language-wrapper p,
 .tool-wrapper p {
-  background-color: #b65141;
-  color: #f7f1e7;
+  background-color: #f7f1e7;
+  border: 2px solid #b65141;
+  color: #152A3E;
   padding: 15px 0;
   margin: 20px 0;
 }
@@ -419,8 +420,8 @@ header h2 {
 /* ----------------- Base Footer ---------------- */
 
 footer {
-  background-color: #b65141;
-  color: #dbcfbb;
+  background-color: #5f7159;
+  color: #f7f1e7;
 }
 
 footer .contact-wrapper {
@@ -463,7 +464,7 @@ footer .social-icons li {
 
 footer .social-icons li i {
   font-size: 1.875rem;
-  color: #dbcfbb;
+  color: #f7f1e7;
 }
 
 
