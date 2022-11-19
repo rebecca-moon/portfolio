@@ -5,7 +5,7 @@
 
 White Flour: #f7f1e7
 Manchester Tan: #dbcfbb
-Palace Green: #778d6f
+Palace Green: #5f7159
 Tandoori: #b65141
 Smoky Blue: #596e79
 Deep Blue: #152A3E
