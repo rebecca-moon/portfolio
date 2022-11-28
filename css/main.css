@@ -439,6 +439,10 @@ footer h4 {
   width: 100%;
 }
 
+footer a {
+  color: #f7f1e7;
+}
+
 footer .follow-section {
   display: flex;
   flex-flow: row wrap;
